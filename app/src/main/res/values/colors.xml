@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background">#81252422</color>
+    <color name="backgroundforecast">#B2252422</color>
+    <color name="city">#363637</color>
+    <color name="country">#A6A6A6</color>
+    <color name="time">#040404</color>
+    <color name="red">#FF3D00</color>
+    <color name="green">#76FF03</color>
+    <color name="gray">#B6B4B4</color>
+    <color name="yellow">#FFEA00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
